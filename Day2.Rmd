@@ -27,7 +27,6 @@ options(scipen = 3, digits = 3)
 
 The goal of this project is to get better  aquainted with Dplyr and working with data. 
 
-[Project 7 Markdown](https://canvas.brown.edu/files/60653753/download?download_frd=1)
 
 # New York City Flights 13
 
